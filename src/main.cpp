@@ -8,7 +8,7 @@ int main(int argc, char **argv){
 
     CApp theApp(800, 600, "DVD Screensaver", (sf::Style::Titlebar|sf::Style::Close));
 
-    cout << "------ Exiting  DVD_Screensaver ------" << endl;
+    cout << "------ Exiting  DVD_Screensaver TEST ------" << endl;
     
     return EXIT_SUCCESS;
 }
